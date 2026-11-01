@@ -12,6 +12,6 @@ int main(void)
     printf("Count: %d\n", count);
     printf("Average: %.2f\n", score_average(scores, count));
     printf("Maximum: %d\n", score_max(scores, count));
-    printf("Minimum: %d\n", score_min(scores, count));
+
     return 0;
 }
