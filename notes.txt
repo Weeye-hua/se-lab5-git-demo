@@ -1,0 +1,1 @@
+Temporary note for the Git tracked-file deletion exercise.
