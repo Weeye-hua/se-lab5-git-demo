@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "score.h"
 
-#define REPORT_TITLE "Student Score Report"
+#define REPORT_TITLE "Member Score Report"
 
 int main(void)
 {
